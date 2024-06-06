@@ -6,7 +6,7 @@
 ### Getting Started
 Git Repository
 ```bash
-1. 
+1. https://github.com/Itstriplek/WDIO_Assessment.git
 ```
 
 Run tests:
