@@ -60,9 +60,9 @@ export const config: Options.Testrunner = {
     //
     capabilities: [{
         browserName: 'chrome'
-    } /*{
+    }, {
        browserName: 'MicrosoftEdge'
-    }*/
+    }
 ],
 
     //
